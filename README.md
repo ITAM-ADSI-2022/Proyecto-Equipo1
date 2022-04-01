@@ -1,4 +1,4 @@
-# Proyecto-Equipo1
+# CAFEITAM Equipo1
 
 ## Personas
 ### Ramiro López
