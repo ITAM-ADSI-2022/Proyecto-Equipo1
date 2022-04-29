@@ -5,7 +5,7 @@ Propuesta para aplicación móvil de la cafetería del ITAM
 La documentación sobre las personas la puedes encontrar [aquí](./Personas_CustomerJourneys.md)
 
 ## Prototipo y pruebas de usabilidad
-La documentación sobre las personas la puedes encontrar [aquí](./Prototipo_Pruebas.md)
+La documentación sobre el prototipo y las pruebas de usabilidad la puedes encontrar [aquí](./Prototipo_Pruebas.md)
 
 ## Creado por
 - Karen Arteaga Mendoza
