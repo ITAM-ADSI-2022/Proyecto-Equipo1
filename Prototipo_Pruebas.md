@@ -61,3 +61,10 @@ En la prueba se evaluaron las métricas:
 - Mapa de calor para cada botón de prueba.
 
 ### Resultados
+https://app.usabilityhub.com/tests/86992da6abba/results/432157efb743
+
+Porcentaje de estudiantes que acertaron en las tareas y tiempo promedio:
+
+
+Mapa de calor para cada tarea:
+
