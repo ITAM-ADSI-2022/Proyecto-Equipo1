@@ -23,3 +23,10 @@ Pantalla de validación de pago para
 ![qr](./pics/QR.png)
 
 ## Pruebas de usabilidad
+Las pruebas de usabilidad se desarrollaron en usabilityhub.com, para realizar las pruebas entrar a: https://app.usabilityhub.com/do/86992da6abba/c760
+
+### Métricas
+- Cantidad de clics desde el inicio de sesión hasta la validación del pedido
+- Porcentaje de 
+
+### 
