@@ -61,18 +61,15 @@ En la prueba se evaluaron las métricas:
 ### Resultados
 Los resultados actualizados de la prueba se pueden encontrar en: https://app.usabilityhub.com/tests/86992da6abba/results/432157efb743
 
-#### Resultados de 20 estudiantes
-100% de los estudiantes que realizaron la prueba completaron su pedido en 5 clics o menos
+#### 100% de los estudiantes que realizaron la prueba completaron su pedido en 5 clics o menos
 
 ![clics](./pics/clics.png)
 
-Porcentaje de estudiantes que acertaron en las tareas y tiempo promedio:
-
+#### Porcentaje de estudiantes que acertaron en las tareas y tiempo promedio:
 
 ![porcentaje](./pics/Porc.png)
 
-Mapa de calor para cada tarea:
-
+#### Mapa de calor para cada tarea:
 
 ![heat1](./pics/heat1.png)
 ![heat2](./pics/heat2.png)
