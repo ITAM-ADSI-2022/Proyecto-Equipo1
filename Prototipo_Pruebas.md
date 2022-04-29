@@ -53,15 +53,18 @@ Lista de tareas:
 Para realizar la prueba se pidió a 20 estudiantes aleatorios ingresar al link de la prueba y seguir las instrucciones. El rol del moderador fue explicar el objetivo de la prueba y observar al estudiante completar la lista de tareas.
 
 En la prueba se evaluaron las métricas:
-- Cantidad de clics desde el inicio de sesión hasta la validación del pedido
-- Porcentaje de estudiantes que seleccionan el botón correcto por tarea.
 - Porcentaje de estudiantes que realizan el pedido en 5 clics o menos.
+- Porcentaje de estudiantes que seleccionan el botón correcto por tarea.
 - Tiempo promedio para realizar cada tarea.
-- Tiempo promedio para completar la prueba.
 - Mapa de calor para cada botón de prueba.
 
 ### Resultados
-https://app.usabilityhub.com/tests/86992da6abba/results/432157efb743
+Los resultados actualizados de la prueba se pueden encontrar en: https://app.usabilityhub.com/tests/86992da6abba/results/432157efb743
+
+#### Resultados de 20 estudiantes
+100% de los estudiantes que realizaron la prueba completaron su pedido en 5 clics o menos
+
+![clics](./pics/clics.png)
 
 Porcentaje de estudiantes que acertaron en las tareas y tiempo promedio:
 
