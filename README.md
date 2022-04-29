@@ -1,6 +1,12 @@
 # CAFEITAM Equipo1
+Propuesta para aplicación móvil de la cafetería del ITAM
 
-## Personas
+## Personas y Customer Journeys
+La documentación sobre las personas la puedes encontrar [aquí](./Personas_CustomerJourneys.md)
+
+## Prototipo y pruebas de usabilidad
+La documentación sobre las personas la puedes encontrar [aquí](./Personas_CustomerJourneys.md)
+
 ### Ramiro López
 ![RamiroLopez ](https://user-images.githubusercontent.com/47927104/161279276-97546653-7188-4c6f-9fcf-baffdb706106.png)
 ### Andrea Hernández
