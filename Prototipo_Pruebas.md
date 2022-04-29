@@ -64,8 +64,12 @@ En la prueba se evaluaron las métricas:
 https://app.usabilityhub.com/tests/86992da6abba/results/432157efb743
 
 Porcentaje de estudiantes que acertaron en las tareas y tiempo promedio:
-![porcentaje](./pics/Prc.png)
+
+
+![porcentaje](./pics/Porc.png)
 
 Mapa de calor para cada tarea:
+
+
 ![heat1](./pics/heat1.png)
 ![heat2](./pics/heat2.png)
